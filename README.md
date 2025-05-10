@@ -26,7 +26,6 @@ I love working in collaborative environments where knowledge is shared, and idea
 
 - ✉️ tobiasandren@hotmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tobias-andr%C3%A9n-7aa76434b/)  
-- 💻 [GitHub](https://github.com/TobiasAndren)
 
 Let’s build something awesome together!
 
